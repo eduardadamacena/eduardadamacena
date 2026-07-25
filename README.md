@@ -9,23 +9,27 @@
 <br>
 
 <h2 align="center">
-  <img src="https://api.iconify.design/material-symbols:person-raised-hand-outline.svg?color=white" width="28" align="center"> About Me
+  <img src="https://api.iconify.design/material-symbols:person-raised-hand-outline.svg?color=white" width="28" align="absmiddle"> About Me
 </h2>
 
 <div>
-  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZxNnlmZnVwM2NzcnZsc3FobW1lNm54a3lyMWx1aXB5OXhjdDltaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z9K2wt4tLEJDj3jVuq/giphy.gif" alt="Code GIF" width="220">
+  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZxNnlmZnVwM2NzcnZsc3FobW1lNm54a3lyMWx1aXB5OXhjdDltaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z9K2wt4tLEJDj3jVuq/giphy.gif" alt="Code GIF" width="220" hspace="30" vspace="10">
   
-  Hello, I'm <b>Maria Eduarda</b>! I'm an undergraduate student pursuing a degree in Information Systems at the University of Pernambuco. I'm passionate about technology and always looking to learn new things. Currently, I'm working on exciting projects to put into practice my knowledge of frontend development and user interface design.
-  <br><br>
-  🎓 Studying Systems of Information at UPE<br>
-  💻 Focused on frontend web development and data analysis
+  <p>
+    Hello, I'm <b>Maria Eduarda</b>! I'm an undergraduate student pursuing a degree in Information Systems at the University of Pernambuco. I'm passionate about technology and always looking to learn new things. Currently, I'm working on exciting projects to put into practice my knowledge of frontend development and user interface design.
+  </p>
+  
+  <p>
+    🎓 Studying Systems of Information at UPE<br>
+    💻 Focused on frontend web development and data analysis
+  </p>
 </div>
 
 <br clear="all">
 <br>
 
 <h2 align="center">
-  <img src="https://api.iconify.design/material-symbols:developer-mode-tv-outline.svg?color=white" width="28" align="center"> Technologies
+  <img src="https://api.iconify.design/material-symbols:developer-mode-tv-outline.svg?color=white" width="28" align="absmiddle"> Technologies
 </h2>
 
 <div align="center">
@@ -44,7 +48,7 @@
 <br>
 
 <h2 align="center">
-  <img src="https://api.iconify.design/material-symbols:analytics-outline.svg?color=white" width="28" align="center"> Statistics
+  <img src="https://api.iconify.design/material-symbols:analytics-outline.svg?color=white" width="28" align="absmiddle"> Statistics
 </h2>
 
 <div align="center">
