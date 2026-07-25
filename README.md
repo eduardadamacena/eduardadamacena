@@ -13,7 +13,7 @@
 </h2>
 
 <div>
-  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZxNnlmZnVwM2NzcnZsc3FobW1lNm54a3lyMWx1aXB5OXhjdDltaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z9K2wt4tLEJDj3jVuq/giphy.gif" alt="Code GIF" width="220" hspace="30" vspace="10">
+  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZxNnlmZnVwM2NzcnZsc3FobW1lNm54a3lyMWx1aXB5OXhjdDltaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z9K2wt4tLEJDj3jVuq/giphy.gif" alt="Code GIF" width="220" hspace="80" vspace="10">
   
   <p>
     Hello, I'm <b>Maria Eduarda</b>! I'm an undergraduate student pursuing a degree in Information Systems at the University of Pernambuco. I'm passionate about technology and always looking to learn new things. Currently, I'm working on exciting projects to put into practice my knowledge of frontend development and user interface design.
