@@ -4,7 +4,7 @@
     <a href="https://www.instagram.com/du.ardaa/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black&labelColor=white&color=white" alt="Instagram">
     </a>
-    <a href="https://linkedin.com/in/SEU-USUARIO" target="_blank">
+    <a href="https://www.linkedin.com/in/eduardadamacena/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=white&color=white" alt="LinkedIn">
     </a>
     <a href="mailto:mduarda.damacena@gmail.com">
