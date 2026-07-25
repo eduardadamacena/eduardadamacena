@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Maria Eduarda 👋</h1>
+<h1 align="center">Hi, I'm Maria Eduarda</h1>
 
 <div align="center">
     <a href="https://www.instagram.com/du.ardaa/" target="_blank">
