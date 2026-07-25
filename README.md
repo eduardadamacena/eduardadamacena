@@ -15,12 +15,10 @@
 <div>
   <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZxNnlmZnVwM2NzcnZsc3FobW1lNm54a3lyMWx1aXB5OXhjdDltaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z9K2wt4tLEJDj3jVuq/giphy.gif" alt="Code GIF" width="220">
   
-  Hello, I'm <b>Maria Eduarda</b>! I'm an undergraduate student<br>
-  pursuing a degree in Information Systems at the University<br>
-  of Pernambuco. I'm passionate about technology and always<br>
-  looking to learn new things. Currently, I'm working on<br>
-  exciting projects to put into practice my knowledge of<br>
-  frontend development and user interface design.
+  Hello, I'm <b>Maria Eduarda</b>! I'm an undergraduate student pursuing a degree in Information Systems<br>
+  at the University of Pernambuco. I'm passionate about technology and always looking to learn new<br>
+  things. Currently, I'm working on exciting projects to put into practice my knowledge of frontend<br>
+  development and user interface design.
   <br><br>
   🎓 Studying Systems of Information at UPE<br>
   💻 Focused on frontend web development and data analysis
