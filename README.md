@@ -19,6 +19,8 @@
   About Me
 </h2>
 
+<br>
+
 <div>
   <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZxNnlmZnVwM2NzcnZsc3FobW1lNm54a3lyMWx1aXB5OXhjdDltaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z9K2wt4tLEJDj3jVuq/giphy.gif" alt="Coding GIF" width="220">
 
