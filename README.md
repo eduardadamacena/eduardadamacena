@@ -24,7 +24,7 @@
 
 Hello! I'm <b>Maria Eduarda</b>, an undergraduate student pursuing a degree in Information Systems at the University of Pernambuco (UPE). I'm passionate about technology and always eager to learn new things. Currently, I'm working on projects to strengthen my skills in frontend web development, user interface design, and data analysis.
 
-<br><br>
+<br>
 
 🎓 Information Systems Undergraduate at UPE<br>
 💻 Interested in Frontend Web Development, UI Design, and Data Analysis
