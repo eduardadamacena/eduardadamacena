@@ -1,15 +1,9 @@
 <h1 align="center">Hello! I'm Maria Eduarda</h1>
 
 <div align="center">
-    <a href="https://www.instagram.com/du.ardaa/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black&labelColor=white&color=white" alt="Instagram">
-    </a>
-    <a href="https://linkedin.com/in/seuusuario" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=white&color=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:mduarda.damacena@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=black&labelColor=white&color=white" alt="Email">
-    </a>
+    <a href="https://www.instagram.com/du.ardaa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black&labelColor=white&color=white" alt="Instagram"></a>
+    <a href="https://linkedin.com/in/seuusuario" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=white&color=white" alt="LinkedIn"></a>
+    <a href="mailto:mduarda.damacena@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=black&labelColor=white&color=white" alt="Email"></a>
 </div>
 
 <br>
@@ -18,20 +12,16 @@
   <img src="https://api.iconify.design/material-symbols:person-raised-hand-outline.svg?color=white" width="28" align="center"> About Me
 </h2>
 
-<table align="center" border="0" style="border-collapse: collapse;">
-  <tr>
-    <td width="60%">
-      Hello, I'm <b>Maria Eduarda</b>! I'm an undergraduate student pursuing a degree in Information Systems at the University of Pernambuco. I'm passionate about technology and always looking to learn new things. Currently, I'm working on exciting projects to put into practice my knowledge of frontend development and user interface design.
-      <br><br>
-      🎓 Studying Systems of Information at UPE<br>
-      💻 Focused on frontend web development and data analysis<br>
-    </td>
-    <td align="center" width="40%">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZxNnlmZnVwM2NzcnZsc3FobW1lNm54a3lyMWx1aXB5OXhjdDltaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z9K2wt4tLEJDj3jVuq/giphy.gif" alt="Code GIF" width="220">
-    </td>
-  </tr>
-</table>
+<div>
+  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZxNnlmZnVwM2NzcnZsc3FobW1lNm54a3lyMWx1aXB5OXhjdDltaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z9K2wt4tLEJDj3jVuq/giphy.gif" alt="Code GIF" width="220">
+  
+  Hello, I'm <b>Maria Eduarda</b>! I'm an undergraduate student pursuing a degree in Information Systems at the University of Pernambuco. I'm passionate about technology and always looking to learn new things. Currently, I'm working on exciting projects to put into practice my knowledge of frontend development and user interface design.
+  <br><br>
+  🎓 Studying Systems of Information at UPE<br>
+  💻 Focused on frontend web development and data analysis
+</div>
 
+<br clear="all">
 <br>
 
 <h2 align="center">
@@ -58,7 +48,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=EduardaDamacena&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" height="170" alt="Streak de eduardadamacena" />
+  <img src="https://streak-stats.demolab.com?user=eduardadamacena&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" height="170" alt="Streak de eduardadamacena" />
 </div>
 
 <br>
