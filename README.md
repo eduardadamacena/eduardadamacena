@@ -60,9 +60,3 @@ Hello! I'm <b>Maria Eduarda</b>, an undergraduate student pursuing a degree in I
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=eduardadamacena&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" height="170" alt="GitHub Streak" />
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardadamacena&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=000000&title_color=ffffff" alt="GitHub Activity Graph" />
-</div>
